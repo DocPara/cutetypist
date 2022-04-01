@@ -10,7 +10,7 @@ Rename any Telegram Files with Permanent Thumbnail Support'
 
 ### Installation
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy? template=https://github.com/DocPara/cutetypist)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/DocPara/cutetypist)
 Telegram RoBot to Upload Links.
 
 ### Deploy in your vps
